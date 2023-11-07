@@ -15,4 +15,4 @@ if '%errorlevel%' NEQ '0' (
     del "%temp%\tmp.vbs"
 )
 
-pause
+::pause
